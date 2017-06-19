@@ -1,14 +1,14 @@
 {
-    "Collections":[
+    "Categories": [
         {
-            "name":"Galaxy S8",
+            "name": "Galaxy S8",
             "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
-            "name":"Pixel XL",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "name": "Pixel XL",
+            "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
             "name": "Nokia 3",
@@ -32,378 +32,378 @@
             "author": "wallsplash",
             "url": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_01.jpg",
             "thumbnail": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_01.jpg",
-            "collections": "OnePlus 5"
+            "category": "OnePlus 5"
         },
         {
             "name": "OnePlus 5 2",
             "author": "OnePlus 5",
             "url": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_02.jpg",
             "thumbnail": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_02.jpg",
-            "collections": "OnePlus 5"
+            "category": "OnePlus 5"
         },
         {
             "name": "OnePlus 5 3",
             "author": "OnePlus 5",
             "url": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_03.jpg",
             "thumbnail": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_03.jpg",
-            "collections": "OnePlus 5"
+            "category": "OnePlus 5"
         },
         {
             "name": "OnePlus 5 4",
             "author": "OnePlus 5",
             "url": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_04.jpg",
             "thumbnail": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_04.jpg",
-            "collections": "OnePlus 5"
+            "category": "OnePlus 5"
         },
         {
             "name": "OnePlus 5 5",
             "author": "OnePlus 5",
             "url": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_05.jpg",
             "thumbnail": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_05.jpg",
-            "collections": "OnePlus 5"
+            "category": "OnePlus 5"
         },
         {
             "name": "OnePlus 5 6",
             "author": "OnePlus 5",
             "url": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_06.jpg",
             "thumbnail": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_06.jpg",
-            "collections": "OnePlus 5"
+            "category": "OnePlus 5"
         },
         {
             "name": "OnePlus 5 7",
             "author": "OnePlus 5",
             "url": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_07.jpg",
             "thumbnail": "http://www.droidviews.com/wp-content/uploads/2017/06/oneplus-5_wall_droidviews_07.jpg",
-            "collections": "OnePlus 5"
+            "category": "OnePlus 5"
         },
         {
             "name": "Nokia 3 1",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_aerial_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_aerial_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 2",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_balloons_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_balloons_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 3",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_canyon_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_canyon_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 4",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_cerro_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_cerro_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 5",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_horns_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_horns_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 6",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_hotairballon_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_hotairballon_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 7",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_lookout_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_lookout_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 8",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_luminescence_droidviews.jpeg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_luminescence_droidviews.jpeg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 9",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_simple_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_simple_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "Nokia 3 10",
             "author": "Nokia 3",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_sunset_droidviews.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/06/nokia_3_sunset_droidviews.jpg",
-            "collections": "Nokia 3"
+            "category": "Nokia 3"
         },
         {
             "name": "HTC 11 1",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_01.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_01.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 2",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_03.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_03.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 3",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_04.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_04.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 4",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_05.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_05.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 5",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_06.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_06.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 6",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_07.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_07.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 7",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_08.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_08.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 8",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_09.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_09.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 9",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_10.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_10.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 10",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_11.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_11.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 11",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_13.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_13.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 12",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_12.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_12.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 10",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_14.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_14.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 13",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_15.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_15.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 14",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_16.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_16.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 15",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_17.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_17.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 16",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_18.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_18.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 17",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_19.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_19.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 18",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_20.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_20.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 19",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_21.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_21.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "HTC 11 20",
             "author": "HTC 11",
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_02.jpg",
             "thumbnail": "http://cdn.droidviews.com/wp-content/uploads/2017/05/htc_u11_wall_droidviews_02.jpg",
-            "collections": "HTC 11"
+            "category": "HTC 11"
         },
         {
             "name": "Pixel XL 1",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper.png",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper.png",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 2",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-1.png",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-1.png",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 3",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-2.png",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-2.png",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 4",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-3.png",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-3.png",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 5",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-4.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-4.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 6",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-6.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-6.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 7",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-7.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-7.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 8",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-5.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-5.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 9",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-8.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-8.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 10",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-9.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-9.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 11",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-10.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-10.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 12",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-11.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-11.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 13",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-12.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-12.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 14",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-13.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-13.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 14",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-14.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-14.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "Pixel XL 16",
             "author": "Pixel XL",
             "url": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-15.jpg",
             "thumbnail": "http://itechify.com/wp-content/uploads/2016/10/Google-pixel-stock-wallpaper-15.jpg",
-            "collections": "Pixel XL"
+            "category": "Pixel XL"
         },
         {
             "name": "S8 Plus QHD 1",
@@ -411,7 +411,7 @@
             "url": "http://www.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_fhd_droidviews_01.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 1.1",
@@ -419,7 +419,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-1.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 1.2",
@@ -427,7 +427,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_01.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 2",
@@ -435,7 +435,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_02.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 3",
@@ -450,7 +450,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-3.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 3.2",
@@ -458,7 +458,7 @@
             "url": "http://www.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_fhd_droidviews_03.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 4",
@@ -466,7 +466,7 @@
             "url": "http://www.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_fhd_droidviews_04.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 4.1",
@@ -474,7 +474,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-4.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 5",
@@ -482,7 +482,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-5.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 6",
@@ -490,7 +490,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_06.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 6.1",
@@ -498,7 +498,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-6.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 7",
@@ -506,7 +506,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_07.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 8",
@@ -514,7 +514,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_08.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 9",
@@ -522,7 +522,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_09.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 10",
@@ -530,7 +530,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_10.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 11",
@@ -538,7 +538,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_11.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 12",
@@ -546,7 +546,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_12.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 12.1",
@@ -554,7 +554,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-2.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 13",
@@ -562,7 +562,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_13.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 13.1",
@@ -570,7 +570,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-13.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 14",
@@ -578,7 +578,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_14.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 14.1",
@@ -586,7 +586,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-14.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 15",
@@ -594,7 +594,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-15.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 16",
@@ -602,7 +602,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-16.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 16.1",
@@ -610,7 +610,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_16.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 17",
@@ -618,7 +618,7 @@
             "url": "http://cdn.droidviews.com/wp-content/uploads/2017/03/samsung_galaxy_s8_qhd_droidviews_17.jpg",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 17.1",
@@ -626,7 +626,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-17.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 18",
@@ -634,7 +634,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-18.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 19",
@@ -642,21 +642,21 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-19.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 20",
             "author": "Samsung S8",
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-20.png",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 21",
             "author": "Samsung S8",
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-21.png",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 22",
@@ -664,7 +664,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-22.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         },
         {
             "name": "S8 Plus QHD 23",
@@ -672,7 +672,7 @@
             "url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-23.png",
             "dimensions": "3200 x 2560",
             "copyright": "Copyright ¸ 2017 Samsung. All rights reserved.",
-            "collections": "Galaxy S8"
+            "category": "Galaxy S8"
         }
     ]
 }
